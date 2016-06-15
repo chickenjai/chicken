@@ -5,7 +5,7 @@
 file for git
 </title>
 <style>
-#container double
+#container
 {
   height:300px;
   width:500px;
